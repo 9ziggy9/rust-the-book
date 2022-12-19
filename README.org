@@ -1,0 +1,2 @@
+* Rust (The Book)
+Learning rust by just reading "The Book"
